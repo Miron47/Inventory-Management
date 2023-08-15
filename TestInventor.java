@@ -5,6 +5,7 @@ public class TestInventor
    {
       try
       {
+        //Replace the address with your own
          Inventory d = new Inventory("C:\\Users\\Miron Smierzewski\\Desktop\\inventorylist.txt");
          d.run();  
       }
